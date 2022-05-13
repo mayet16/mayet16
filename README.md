@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mayet16
 - 👀 I’m interested in deep learning
-- 🌱 I’m currently learning software engineering in Bahir Dar university
+- Software Engineer at Dventus Winds Technology
+- 🌱 I’m study software engineering at Bahir Dar university
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ...
 
