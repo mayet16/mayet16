@@ -1,7 +1,8 @@
+Linkedin Profile: https://www.linkedin.com/in/mayet-bekele-aba68420b
 - 👋 Hi, I’m @mayet16
 - 👀 I’m interested in deep learning
 - Software Engineer at Dventus Winds Technology
-- 🌱 I’m study software engineering at Bahir Dar university
+- 🌱 I study software engineering at Bahir Dar university
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ...
 
