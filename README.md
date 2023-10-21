@@ -4,7 +4,7 @@
 - 
 - 👀 I’m interested in deep learning
 - Spring Boot + Angular + Oracle Database Fullstack developer
-- Software Engineer at Dventus Winds Technology, Flutter Mobile Application Devloper
+- Software Engineer at HIbret Bank SC
 - 🌱 I study software engineering at Bahir Dar university
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ...
