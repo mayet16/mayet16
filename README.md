@@ -5,8 +5,8 @@
 - 👀 I’m interested in deep learning
 - Spring Boot + Angular + Oracle Database Fullstack developer
 - Software Engineer at HIbret Bank SC
-- 🌱 I study software engineering at Bahir Dar university
-- 💞️ I’m looking to collaborate on AI
+- 🌱 I study software engineering at Bahir Dar University
+- 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me ...
 
 <!---
