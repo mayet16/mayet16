@@ -3,7 +3,7 @@
 - Data Scientist Badges: https://www.credly.com/badges/fe2c7fbb-89f5-4d84-90e9-904713406a2b
 - 
 - 👀 I’m interested in deep learning
-- Spring Boot + Angular + Oracle Database Fullstack developer
+- Spring Boot + Angular + Database Fullstack developer
 - Software Engineer at HIbret Bank SC
 - 🌱 I study software engineering at Bahir Dar University
 - 💞️ I’m looking to collaborate on Software Development
