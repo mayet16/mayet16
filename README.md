@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Mayet Bekele Sharew
 
 🎓 MSc Student in **Computer Vision and Robotics (VIBOT)** at **Université de Bourgogne, France**
-💻 Software Engineer with 3+ years of experience in enterprise software development
+💻 Software Engineer with 4+ years of experience in enterprise software development
 🤖 Passionate about Computer Vision, Robotics, Medical Imaging, and AI systems
 
 ---
