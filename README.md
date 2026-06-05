@@ -95,6 +95,11 @@ I enjoy building intelligent systems that combine software engineering with AI a
 
 Implemented complete monocular and stereo visual odometry pipelines using Python, OpenCV, and NumPy for robotics perception and camera trajectory estimation.
 
+### DA-CapNet+: Deep Learning for Nailfold Capillary Analysis
+
+Extended the DA-CapNet medical imaging framework for automated nailfold capillaroscopy analysis. Developed a dual-attention U-Net pipeline for capillary segmentation, density estimation, capillary counting, and systemic sclerosis classification.
+Implemented SE and CBAM attention mechanisms, Focal-Tversky loss, test-time augmentation, sliding-window inference, and encoder-feature classification. Achieved 96.7% classification accuracy using leave-one-out cross-validation.
+
 ### ♿ Amharic Optical Braille Recognition
 
 Deep learning-based image processing system for recognizing Amharic Braille characters using computer vision techniques.
